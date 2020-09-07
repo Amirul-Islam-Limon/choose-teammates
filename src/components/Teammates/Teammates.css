@@ -1,0 +1,17 @@
+body{
+    background-color:  rgb(143, 236, 236);
+}
+.chosen-details{
+    margin-left: 200px;
+}
+.profiles-chosenList{
+    display: flex;
+}
+.add-here{
+    border: 2px solid rgb(78, 9, 9);
+    height: 100px;
+    width: 300px;
+}
+.chosen-details h3{
+    color: red;
+}
